@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Softcell-Pro\AndroidStudioProjects\DemoCustomAdapter1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d06527da8b6cf66bce84825931a0dacaf51c7544">
+        <dex dex="C:\Users\Softcell-Pro\AndroidStudioProjects\DemoCustomAdapter1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d8eae41c5313818a3a647df56cece944ed3ae960\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Softcell-Pro\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\Softcell-Pro\AndroidStudioProjects\DemoCustomAdapter1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_495f303be4089ab82299ef032048110387780524\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Softcell-Pro\AndroidStudioProjects\DemoCustomAdapter1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="40c2989a28a3195f9745f35c3874b3b44234037e">
+        <dex dex="C:\Users\Softcell-Pro\AndroidStudioProjects\DemoCustomAdapter1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_4dbc4767d4969529df0e02db5820cea32b17e34f\classes.dex" />
+    </item>
+
+</items>

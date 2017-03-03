@@ -1,0 +1,7 @@
+#Thu Mar 02 16:24:34 BDT 2017
+base.0=C\:\\Users\\Softcell-Pro\\AndroidStudioProjects\\DemoCustomAdapter1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_4dbc4767d4969529df0e02db5820cea32b17e34f
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Softcell-Pro\\AndroidStudioProjects\\DemoCustomAdapter1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_d8eae41c5313818a3a647df56cece944ed3ae960\\classes.dex
+base.1=C\:\\Users\\Softcell-Pro\\AndroidStudioProjects\\DemoCustomAdapter1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_d8eae41c5313818a3a647df56cece944ed3ae960
+file.0=C\:\\Users\\Softcell-Pro\\AndroidStudioProjects\\DemoCustomAdapter1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_4dbc4767d4969529df0e02db5820cea32b17e34f\\classes.dex
